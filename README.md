@@ -1,6 +1,6 @@
 # B_Bhuvan_kumar
 <h1 align="center">Hi 👋, I'm B BHUVAN KUMA</h1>
-<h3 align="center">A passionate software from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **UI/UX, React, MERN**
 
